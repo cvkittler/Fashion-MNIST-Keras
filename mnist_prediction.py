@@ -3,7 +3,7 @@ from keras.models import Sequential
 from keras.layers import Dense, Activation
 import matplotlib.pyplot as plt
 import numpy as np
-
+#test
 debug = False
 
 # ++++++++++ data preprocessing ++++++++++++++++++++++++++++++++++
